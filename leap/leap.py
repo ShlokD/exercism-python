@@ -1,5 +1,5 @@
 def is_leap_year(year):
-    """Function which checks if a year is a leap yeasr.
+    """Function which checks if a year is a leap year.
 
     Args:
         int: year.
